@@ -325,5 +325,3 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
-
-// I’m excited to share my latest project: a Brick Breaker game developed with Flutter! 🎉 This game is not just a fun challenge but also a showcase of what Flutter can do. I implemented full move validation to ensure seamless and accurate gameplay, making every block break and paddle move count. To give the game a modern and stylish look, I integrated custom Google Fonts, and for an extra layer of visual appeal, I added the Avatar Glow effect, making the gameplay even more dynamic and engaging. This project has been a fantastic journey into the world of Flutter and game development. I’d love to hear your feedback! 🚀 #FlutterDev #GameDevelopment #MobileApps #GoogleFonts #AvatarGlow #TechInnovation
