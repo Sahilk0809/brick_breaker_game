@@ -45,9 +45,12 @@ class CoverScreen extends StatelessWidget {
                   padding: const EdgeInsets.all(10),
                   decoration: BoxDecoration(
                     color: Colors.deepPurple,
-                    borderRadius: BorderRadius.circular(20),
+                    borderRadius: BorderRadius.circular(10),
                   ),
-                  child: const Text('Tap to play'),
+                  child: const Text(
+                    'Tap to play',
+                    style: TextStyle(color: Colors.white),
+                  ),
                 ),
               ),
             ],
